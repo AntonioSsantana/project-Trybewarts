@@ -28,3 +28,7 @@
     height: 500px;
 
 }
+
+div {
+    display: flex;
+}
