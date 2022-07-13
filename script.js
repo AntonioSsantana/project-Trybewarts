@@ -5,12 +5,12 @@ window.onload = function () {
     let inputPassword = document.querySelector('input[name="password"]');
 
     bunttonLogin.addEventListener('click', function (event) {
-        // event.preventDefault();
-        if (inputEmail.value == 'trybe@teste.com' && inputPassword.value == '123456') {
-            event.target = window.alert("Olá, Tryber!");
-        } else {
+        if (inputEmail.value !== 'trybe@teste.com' && inputPassword.value !== '123456') {
             event.target = window.alert("Email ou senha inválidos.");
+        } else {
+            event.target = window.alert("Olá, Tryber!")
         }
+
     })
 }
 
