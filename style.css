@@ -8,3 +8,14 @@
 
     display: flex;
 }
+
+.form-trybewarts {
+
+    display: flex;
+}
+
+#evaluation-form {
+
+    display: flex;
+    width: 675px;
+}
