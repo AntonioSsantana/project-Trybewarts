@@ -53,6 +53,7 @@ A estrutura de diretórios do projeto é a seguinte:
 └── README.md             # Documentação do projeto
 ```
 
-## Contribuidores
+## Equipe de desenvolvimento
 
+- [Antônio Santana](https://github.com/AntonioSsantana)
 - [Esdras Thiago](https://github.com/EsdrasThiago)
